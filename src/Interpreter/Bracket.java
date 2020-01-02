@@ -1,5 +1,5 @@
 package Interpreter;
 
-public class LSystem {
+public class Bracket {
 
 }
